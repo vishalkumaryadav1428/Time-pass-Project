@@ -2,122 +2,99 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Vishal Kumar Yadav
 
-[Link to another page](./another-page.html).
+![Profile](profile%20pick.png)
 
-There should be whitespace between paragraphs.
+## Introduction & Summary
+Hi, I am **Vishal Kumar Yadav**, a Computer Science undergraduate passionate about web development and software engineering. I enjoy building scalable web applications and solving real-world problems.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## About Me
+I am currently pursuing B.Tech in Computer Science from Lovely Professional University. I have experience in web development through internships, projects, and hackathons. I am always eager to learn new technologies and improve my development skills.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## Skills & Technologies
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Programming Languages
+- C++
+- JavaScript
+- C
+- PHP
 
-### Header 3
+### Web Technologies
+- HTML
+- CSS
+- Bootstrap
+- React
+- Node.js
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Tools & Platforms
+- VS Code
+- GitHub
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Soft Skills
+- Problem Solving
+- Team Collaboration
+- Adaptability
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Projects
 
-##### Header 5
+### AI-Based Poem Generator
+- Developed a web-based tool that generates poems based on user mood, themes, and keywords.
+- Designed user interface using HTML, CSS, and JavaScript.
+- Built backend using Python text-processing algorithms.
+- Implemented rhyme patterns and creative word logic.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+👉 GitHub Link: https://github.com/vishalkumaryadav1428
 
-###### Header 6
+---
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## Certifications & Courses
+- RHCSA Summer Training – Linux System Administration (2025)
+- Complete Interview Preparation (C++) – GeeksforGeeks (2025)
 
-### There's a horizontal rule below this.
+---
 
-* * *
+## Experience
 
-### Here is an unordered list:
+### Software Development Intern – Optmyzr (June 2025)
+- Assisted in frontend and backend development.
+- Worked on debugging and code optimization.
+- Developed feature modules using JavaScript and Node.js.
+- Worked in Agile environment using Git.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+---
 
-### And an ordered list:
+## Competitive Programming & Hackathons
+- Participated in 2+ University Level Hackathons.
+- Worked on web-based problem solving and team collaboration.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+---
 
-### And a nested list:
+## Open Source Contributions
+Currently exploring open-source contributions and planning to contribute in future projects.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+---
 
-### Small image
+## Research / Patent
+Successfully developed innovative projects officially verified and recognized by the university.
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+---
 
-### Large image
+## Contact
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+📧 Email: vishalkumarkumar65177@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/vishalkumaryadav1428  
+💻 GitHub: https://github.com/vishalkumaryadav1428  
+📱 Mobile: +91-6203656236  
 
+---
 
-### Definition lists can be used with HTML syntax.
+## Resume
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+👉 [Download Resume](resume.pdf)
