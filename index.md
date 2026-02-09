@@ -1,100 +1,64 @@
----
-layout: default
----
-
 # Vishal Kumar Yadav
 
-![Profile](profile%20pick.png)
-
-## Introduction & Summary
-Hi, I am **Vishal Kumar Yadav**, a Computer Science undergraduate passionate about web development and software engineering. I enjoy building scalable web applications and solving real-world problems.
+## Introduction
+Aspiring Software Developer passionate about building web applications and solving real-world problems.
 
 ---
 
 ## About Me
-I am currently pursuing B.Tech in Computer Science from Lovely Professional University. I have experience in web development through internships, projects, and hackathons. I am always eager to learn new technologies and improve my development skills.
+I am a Computer Science student with strong interest in full-stack development and problem solving. I enjoy working on creative and technical projects.
 
 ---
 
 ## Skills & Technologies
-
-### Programming Languages
-- C++
-- JavaScript
-- C
-- PHP
-
-### Web Technologies
-- HTML
-- CSS
-- Bootstrap
-- React
-- Node.js
-
-### Tools & Platforms
-- VS Code
-- GitHub
-
-### Soft Skills
-- Problem Solving
-- Team Collaboration
-- Adaptability
+- Languages: C++, JavaScript, C, PHP
+- Frameworks: HTML, CSS, Bootstrap, NodeJS, React
+- Tools: VS Code, GitHub
+- Soft Skills: Problem Solving, Team Player, Adaptability
 
 ---
 
 ## Projects
-
-### AI-Based Poem Generator
-- Developed a web-based tool that generates poems based on user mood, themes, and keywords.
-- Designed user interface using HTML, CSS, and JavaScript.
-- Built backend using Python text-processing algorithms.
-- Implemented rhyme patterns and creative word logic.
-
-👉 GitHub Link: https://github.com/vishalkumaryadav1428
-
----
-
-## Certifications & Courses
-- RHCSA Summer Training – Linux System Administration (2025)
-- Complete Interview Preparation (C++) – GeeksforGeeks (2025)
+### AI Poem Generator
+- Web tool that generates poems using user themes and moods.
+- Built using HTML, CSS, JavaScript and Python backend.
 
 ---
 
 ## Experience
-
 ### Software Development Intern – Optmyzr (June 2025)
-- Assisted in frontend and backend development.
-- Worked on debugging and code optimization.
-- Developed feature modules using JavaScript and Node.js.
-- Worked in Agile environment using Git.
+- Worked on frontend and backend development.
+- Implemented features using JavaScript and Node.js.
+
+---
+
+## Certifications
+- RHCSA Linux Training
+- GeeksforGeeks C++ Interview Preparation
 
 ---
 
 ## Competitive Programming & Hackathons
-- Participated in 2+ University Level Hackathons.
-- Worked on web-based problem solving and team collaboration.
+- Participated in 2+ University Hackathons.
 
 ---
 
 ## Open Source Contributions
-Currently exploring open-source contributions and planning to contribute in future projects.
+Currently exploring open-source contributions.
 
 ---
 
 ## Research / Patent
-Successfully developed innovative projects officially verified and recognized by the university.
+University verified innovative projects.
 
 ---
 
 ## Contact
-
-📧 Email: vishalkumarkumar65177@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/vishalkumaryadav1428  
-💻 GitHub: https://github.com/vishalkumaryadav1428  
-📱 Mobile: +91-6203656236  
+Email: vishalkumarkumar65177@gmail.com  
+LinkedIn: https://linkedin.com/in/vishalkumaryadav1428  
+GitHub: https://github.com/vishalkumaryadav1428  
 
 ---
 
 ## Resume
-
-👉 [Download Resume](resume.pdf)
+[Download Resume](resume.pdf)
